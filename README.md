@@ -42,5 +42,5 @@ O resultado será exibido diretamente no terminal, mostrando o número total de 
 Este projeto foi desenvolvido por Jailine Coelho Santos, Juliana Laura Silva Leite e Julio Da Cruz Neto.
 
 
-
+![alt_text](./Fluxograma S.A.png)
 
