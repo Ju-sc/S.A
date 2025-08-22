@@ -45,5 +45,5 @@ Este projeto foi desenvolvido por Jailine Coelho Santos, Juliana Laura Silva Lei
 
 Clique <a href="https://www.canva.com/design/DAGwjqU8cqE/fBCmTu8D_FOpTXvElUpjzA/edit?utm_content=DAGwjqU8cqE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">aqui</a> para acessar o fluxograma para melhor visualização.
 
-<img src="./Fluxograma.png"/>
+<img src="./Fluxograma_SA.png"/>
 
