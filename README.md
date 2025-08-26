@@ -41,7 +41,9 @@ O resultado será exibido diretamente no terminal, mostrando o número total de 
 
 Este projeto foi desenvolvido por Jailine Coelho Santos, Juliana Laura Silva Leite e Julio Da Cruz Neto.
 
-5. Fluxograma
+5. Clique <a href="https://www.canva.com/design/DAGwjt89lAc/B-_xDx-nnqFZzQxZA9NwYg/edit?utm_content=DAGwjt89lAc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">aqui</a> para acessar os slides para melhor visualização.
+
+6. Fluxograma
 
 Clique <a href="https://www.canva.com/design/DAGwwOJwv3w/RdVeklk_Q-KG-5tieM4Tsg/edit?utm_content=DAGwwOJwv3w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">aqui</a> para acessar o fluxograma para melhor visualização.
 
